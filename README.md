@@ -1,0 +1,2 @@
+# Bruce
+Um Assistente Virtual
